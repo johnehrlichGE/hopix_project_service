@@ -1,0 +1,6 @@
+{
+    "env": {
+        "DB" : "mongodb+srv://nodejs_user:mesrut-voFga0-vugxaz@cluster0-4nlfx.azure.mongodb.net/project?retryWrites=true",
+        "NODE_ENV" : "development"
+    }
+}
